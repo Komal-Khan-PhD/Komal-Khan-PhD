@@ -14,12 +14,12 @@
 <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&amp;logoColor=black" alt="PowerBI">  <br />
  <h2>IDE's I Prefer: </h2><img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' /> <br />
 </div>
-  
+<br />
+
 - **🔋 Energy Transition**: PhD in Energy & Process Control (Cum Laude) | Expert in blockchain-enabled P2P energy markets, AI-driven grid resilience, and IoT solutions for decarbonization.  
 - **🌍 Global Impact**: Published researcher (+10 papers) | Led EU projects on renewable integration | Speaker at IEEE/Google Tech events.  
 - **🛠️ Tech Stack**: Python, MATLAB, Solidity, Power BI | Certified Blockchain & AI Specialist | Multilingual (EN C2, ES B1, Urdu).  
 - **🏆 Honors**: Severo Ochoa Grant recipient | IEEE SA Smart Contract Contributor | Women Tech Makers Speaker.  
 - **💻 Tech Enthusiast:** Are you interested in data science and machine learning like me 🙂? check out my repositories.
-
 
 

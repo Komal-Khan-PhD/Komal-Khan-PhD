@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 - **🔋 Energy Transition**: PhD in Energy & Process Control (Cum Laude) | Expert in blockchain-enabled P2P energy markets, AI-driven grid resilience, and IoT solutions for decarbonization.  
 - **🌍 Global Impact**: Published researcher (+10 papers) | Led EU projects on renewable integration | Speaker at IEEE/Google Tech events.  
 - **🛠️ Tech Stack**: Python, MATLAB, Solidity, Power BI | Certified Blockchain & AI Specialist | Multilingual (EN C2, ES B1, Urdu).  

@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Renewables-PhD-2ECC71" alt="Energy">
 </div>
 <div align="center">
- <h1>Tech Stacks: </h1>
+ <h2>Tech Stacks: </h2>
  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&amp;logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&amp;logoColor=white" alt="MATLAB">
 <img src="https://img.shields.io/badge/-Blockchain-3D3D3D?style=for-the-badge&logo=blockchaindotcom&amp;logoColor=white" alt="Blockchain">

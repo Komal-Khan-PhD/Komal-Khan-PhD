@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=300&section=header&text=Welcome%20to%20my%20profile!&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=60&fontAlignY=30" />
 <h1> 🔋 Hey There, I'm Komal Khan 👩💻<br />
   <img src="https://img.shields.io/badge/Solidity-Expert-3C3C3D?logo=solidity" alt="Blockchain">
   <img src="https://img.shields.io/badge/Renewables-PhD-2ECC71" alt="Energy">

@@ -4,7 +4,7 @@
 <h1> 🔋 Hey There, I'm Komal Khan 👩💻<br />
   <img src="https://img.shields.io/badge/Solidity-Expert-3C3C3D?logo=solidity" alt="Blockchain">
   <img src="https://img.shields.io/badge/Renewables-PhD-2ECC71" alt="Energy">
-</div><br />
+</div>
 <div align="center">
  <h1>Tech Stacks: </h1>
  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&amp;logoColor=white" alt="Python">
@@ -26,4 +26,7 @@
 - **🏆 Honors**: Severo Ochoa Grant recipient | IEEE SA Smart Contract Contributor | Women Tech Makers Speaker.  
 - **💻 Tech Enthusiast:** Are you interested in data science and machine learning like me 🙂? check out my repositories.
 
+<div align="center"><h2>Connect with me via:<br /><br />
+  <a href='https://www.linkedin.com/in/komalkhan31/' ><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
+  <a href="mailto:dr.komalkhan@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&amp;logoColor=white" alt="Email"></a>
 

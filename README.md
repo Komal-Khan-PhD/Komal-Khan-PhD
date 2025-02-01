@@ -12,7 +12,11 @@
 <img src="https://img.shields.io/badge/-Blockchain-3D3D3D?style=for-the-badge&logo=blockchaindotcom&amp;logoColor=white" alt="Blockchain">
 <img src="https://img.shields.io/badge/-IoT-FF6F00?style=for-the-badge&logo=arduino&amp;logoColor=white" alt="IoT"><img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white' />      <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />  <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white' />   <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
 <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&amp;logoColor=black" alt="PowerBI">  <br />
- <h2>IDE's I Prefer: </h2><img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' /> <br />
+ <h2>IDE's I Prefer: </h2><img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' /> <!-- Jupyter Notebook -->
+<img src='https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white' />
+
+<!-- Google Colab -->
+<img src='https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white' /><br />
 </div>
 <br />
 

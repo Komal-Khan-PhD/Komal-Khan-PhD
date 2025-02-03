@@ -2,8 +2,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=60&fontAlignY=30" />
 <h1> 🔋 Hey There, I'm Komal Khan 👩💻<br />
-  <img src="https://img.shields.io/badge/Solidity-Expert-3C3C3D?logo=solidity" alt="Blockchain">
-  <img src="https://img.shields.io/badge/Renewables-PhD-2ECC71" alt="Energy">
+  <img src="https://img.shields.io/badge/Renewables-PhD-2ECC71" alt="Digital">
+  <img src="https://img.shields.io/badge/Digital_Innovation-Pioneer-FF6F61?logo=data:image/svg+xml;base64,CUSTOM_SVG_HERE&amp;logoColor=white" alt="Digital Innovation">
 </div>
 <div align="center">
  <h2>Tech Stacks: </h2>
